@@ -1,0 +1,4 @@
+enum TrimMode {
+  length,
+  line,
+}
